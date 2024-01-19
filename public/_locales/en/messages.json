@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "익스텐션 설명 테스트",
+    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+  },
+  "extensionName": {
+    "description": "익스텐션 이름 테스트",
+    "message": "Chrome extension boilerplate"
+  }
+}
